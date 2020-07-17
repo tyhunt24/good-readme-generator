@@ -1,31 +1,36 @@
 # project 1
-  
+
   ## Description
-  This is a short description of the project
+  This is a description
 
   ## table of contents
-  [Installation](## Installation)
-  [Usage](## Usage)
-  [License](## License)
-  [Contribution](## Contribution)
-  [Tests](## Tests)
-  [Questions](## Questions)
+  [Installation](Installation) 
+
+  [Usage](Usage) 
+
+  [License](License) 
+
+  [Contribution](Contribution)
+
+  [Tests](Tests) 
+ 
+  [Questions](Questions)
 
 
   ## Installation
-  npm -i
+  npm i
 
   ## Usage
-  We are using it
+  I used it
 
   ## License
-  Common Development and Distribution License
+  Apache License 2.0
   
   ## Contribution
-  we contributed here
+  I contrributed
 
   ## Tests
-  We tested
+  We tested it
 
   ## Questions
   tyhunt23
