@@ -1,25 +1,25 @@
-# project 1
+# Project 1
   ## Description
-  my first project 
+  It is working good
   
-  ##Table of contents
-  yes
+  ## Table of contents
+  need to change it 
 
-  ##Installation
-  what did we install
+  ## Installation
+  yes installed 
 
-  ##Usage
-  how often did we use this
+  ## Usage
+  okay i used it
 
-  ##License
-  Apache License 2.0
+  ## License
+  Common Development and Distribution License
   
-  ##contribution
-  did you contriubute here
+  ## contribution
+  yes i contributed 
 
-  ##tests
-  how many tests were there
+  ## tests
+  need to do some tests
 
-  ##Questions
-  tyhunt24
+  ## Questions
+  jhunt23
   jtmhunt22@gmail.com
