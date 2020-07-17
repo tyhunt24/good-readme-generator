@@ -17,12 +17,6 @@ inquirer.prompt([
 
     {
         type: "input",
-        message: "Table of contents:",
-        name: "table"
-    },
-
-    {
-        type: "input",
         message: "Installation:",
         name: "installation"
     },
@@ -67,6 +61,8 @@ inquirer.prompt([
 
 ]).then(answers => {
    fs.writeFile("read.md", markdown(answers),(err) =>{
-        if(err) console.log(err)
+        if(err) throw err;
     })
+
+    console.log("Generating README...")
 })

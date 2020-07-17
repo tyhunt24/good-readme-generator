@@ -1,25 +1,33 @@
-# Project 1
-  ## Description
-  It is working good
+# project 1
   
-  ## Table of contents
-  need to change it 
+  ## Description
+  This is a short description of the project
+
+  ## table of contents
+  [Installation](## Installation)
+  [Usage](## Usage)
+  [License](## License)
+  [Contribution](## Contribution)
+  [Tests](## Tests)
+  [Questions](## Questions)
+
 
   ## Installation
-  yes installed 
+  npm -i
 
   ## Usage
-  okay i used it
+  We are using it
 
   ## License
   Common Development and Distribution License
   
-  ## contribution
-  yes i contributed 
+  ## Contribution
+  we contributed here
 
-  ## tests
-  need to do some tests
+  ## Tests
+  We tested
 
   ## Questions
-  jhunt23
+  tyhunt23
   jtmhunt22@gmail.com
+
