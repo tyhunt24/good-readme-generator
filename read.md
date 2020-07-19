@@ -1,7 +1,7 @@
-# jeffrey
+# Project 1
 
   ## Description
-  This is my first description
+  This is the description of my first project 
 
   ## table of contents
   [Installation](##Installation) 
@@ -18,19 +18,19 @@
 
 
   ## Installation
-  npm =i
+  I Installed everything hre 
 
   ## Usage
-  used it
+  We used it last night
 
   ## License
-  Common Development and Distribution License
+  [![Generic Badge](https://img.shields.io/badge/<undefined>-<STATUS>-<COLOR>.svg)](https://shields.io/)
   
   ## Contribution
-  I contributed here
+  I contributed last night
 
   ## Tests
-  we tested
+  I tested yesterday
 
   ## Questions
   [tyhunt24](https://github.com/) 
