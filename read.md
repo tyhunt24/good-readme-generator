@@ -1,7 +1,7 @@
-# project 1
+# jeffrey
 
   ## Description
-  This is a short description 
+  This is my first description
 
   ## table of contents
   [Installation](##Installation) 
@@ -18,21 +18,24 @@
 
 
   ## Installation
-  I installed the package 
+  npm =i
 
   ## Usage
-  we used the package 
+  used it
 
   ## License
-  mit
+  Common Development and Distribution License
   
   ## Contribution
-  We also contributed it
+  I contributed here
 
   ## Tests
-  We tested
+  we tested
 
   ## Questions
-  tyhunt23
-  jtmhunt22@gmail.com
+  [tyhunt24](https://github.com/) 
 
+  jtmhunt22@gmail.com 
+ 
+  Phone: 819-436-7659
+  

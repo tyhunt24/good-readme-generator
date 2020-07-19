@@ -31,7 +31,7 @@ inquirer.prompt([
         type: "list",
         message: "License:",
         name: "license",
-        choices: ["mit", "Common Development and Distribution License", "Eclipse Public License version 2.0", "Apache License 2.0"]
+        choices: ["Mit", "Common Development and Distribution License", "Eclipse Public License version 2.0", "Apache License 2.0"]
     },
 
     {   

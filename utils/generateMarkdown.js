@@ -1,4 +1,5 @@
 // function to generate markdown for README
+const phoneNumber = "819-436-7659"
 function generateMarkdown(data) {
   return `# ${data.title}
 
@@ -30,10 +31,10 @@ function generateMarkdown(data) {
   ${data.tests}
 
   ## Questions
-  ${data.question}
-  ${data.email}
-
-`;
+  [${data.question}](https://github.com/) \n
+  ${data.email} \n 
+  Phone: ${phoneNumber}
+  `;
 }
 
 module.exports = generateMarkdown;
