@@ -12,5 +12,12 @@ AS A developer
 I WANT a README generator
 SO THAT can quickly create a professional README for a new project
 ```
+## Links
+Video: https://drive.google.com/file/d/1vvF7WtB-tqOhVQqAviHrQUcTpIPn45q_/view
+Repo: https://github.com/tyhunt24/good-readme-generator
+
+## ScreenShots
+![Screen Shot 2020-07-19 at 6 41 10 PM](https://user-images.githubusercontent.com/49052624/87889597-a45ac400-c9ef-11ea-92db-eb5c4a444413.png)
+![Screen Shot 2020-07-19 at 6 41 52 PM](https://user-images.githubusercontent.com/49052624/87889602-a9b80e80-c9ef-11ea-9736-3015a24c998f.png)
 
 
