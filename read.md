@@ -1,7 +1,7 @@
-# This is my title 
+# Project 1 
 
   ## Description
-  I descriped this project
+  The description of the project 
 
   ## table of contents
   [Installation](#Installation) 
@@ -18,19 +18,22 @@
 
 
   ## Installation
-  I also installed the project
+  The installtion process
 
   ## Usage
-  we used it 
+  The usage of it 
 
   ## License
-  [![Generic Badge](https://img.shields.io/badge/<Common Development and Distribution License>-<Working>-<COLOR>.svg)](https://shields.io/)
+  Common Development and Distribution License
+
+  ## Badges
+  [![Generic Badge](https://img.shields.io/badge/<JavaScript>-<100%>-<COLOR>.svg)](https://shields.io/)
   
   ## Contribution
-  I contrubuted always
+  The contribution of it 
 
   ## Tests
-  tests
+  The tests
 
   ## Questions
   [tyhunt24](https://github.com/) 
