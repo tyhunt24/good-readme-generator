@@ -1,41 +1,40 @@
-# project 1 
+# This is my title 
 
   ## Description
-  this is the description of project 1
+  I descriped this project
 
   ## table of contents
-  [Installation](##Installation) 
+  [Installation](#Installation) 
 
-  [Usage](##Usage) 
+  [Usage](#Usage) 
 
-  [License](##License) 
+  [License](#License) 
 
-  [Contribution](##Contribution)
+  [Contribution](#Contribution)
 
-  [Tests](##Tests) 
+  [Tests](#Tests) 
  
-  [Questions](##Questions)
+  [Questions](#Questions)
 
 
   ## Installation
-  I installed the application 
+  I also installed the project
 
   ## Usage
-  We are always using it 
+  we used it 
 
   ## License
-  [![Generic Badge](https://img.shields.io/badge/<Mit>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+  [![Generic Badge](https://img.shields.io/badge/<Common Development and Distribution License>-<Working>-<COLOR>.svg)](https://shields.io/)
   
   ## Contribution
-  I contributed here
+  I contrubuted always
 
   ## Tests
-  We tested it yesterday
+  tests
 
   ## Questions
-  [Tyhunt24](https://github.com/) 
+  [tyhunt24](https://github.com/) 
 
   jtmhunt22@gmail.com 
  
-  Phone: 819-436-7659
   
