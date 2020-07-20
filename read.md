@@ -1,7 +1,7 @@
-# project 1
+# Good read me
 
   ## Description
-  I described it here
+  Presenting how to do the good readme generator homework
 
   ## table of contents
   [Installation](#Installation) 
@@ -18,10 +18,10 @@
 
 
   ## Installation
-  installed hrer
+  npm -i
 
   ## Usage
-  We are using it 
+  You use it to make a readme generator
 
   ## License
   Mit
@@ -30,10 +30,10 @@
   [![Generic badge](https://img.shields.io/badge/<Javascript>-<Working>-<COLOR>.svg)](https://shields.io/)
   
   ## Contribution
-  I contributed here
+  Sarah Cullen shes the best teacher 
 
   ## Tests
-  we are testing
+  We do not have any tests 
 
   ## Questions
   [tyhunt24](https://github.com/) 
