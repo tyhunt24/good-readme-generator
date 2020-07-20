@@ -1,7 +1,7 @@
-# Project 1 
+# project 1
 
   ## Description
-  The description of the project 
+  I described it here
 
   ## table of contents
   [Installation](#Installation) 
@@ -18,22 +18,22 @@
 
 
   ## Installation
-  The installtion process
+  installed hrer
 
   ## Usage
-  The usage of it 
+  We are using it 
 
   ## License
-  Common Development and Distribution License
+  Mit
 
   ## Badges
-  [![Generic Badge](https://img.shields.io/badge/<JavaScript>-<100%>-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/<Javascript>-<Working>-<COLOR>.svg)](https://shields.io/)
   
   ## Contribution
-  The contribution of it 
+  I contributed here
 
   ## Tests
-  The tests
+  we are testing
 
   ## Questions
   [tyhunt24](https://github.com/) 

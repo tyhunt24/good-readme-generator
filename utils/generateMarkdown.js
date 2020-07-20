@@ -24,7 +24,7 @@ function generateMarkdown(data) {
   ${data.license}
 
   ## Badges
-  [![Generic Badge](https://img.shields.io/badge/<JavaScript>-<100%>-<COLOR>.svg)](https://shields.io/)
+  [![Generic badge](https://img.shields.io/badge/<Javascript>-<Working>-<COLOR>.svg)](https://shields.io/)
   
   ## Contribution
   ${data.contribution}
