@@ -1,7 +1,7 @@
-# Project 1
+# project 1 
 
   ## Description
-  This is the description of my first project 
+  this is the description of project 1
 
   ## table of contents
   [Installation](##Installation) 
@@ -18,22 +18,22 @@
 
 
   ## Installation
-  I Installed everything hre 
+  I installed the application 
 
   ## Usage
-  We used it last night
+  We are always using it 
 
   ## License
-  [![Generic Badge](https://img.shields.io/badge/<undefined>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+  [![Generic Badge](https://img.shields.io/badge/<Mit>-<STATUS>-<COLOR>.svg)](https://shields.io/)
   
   ## Contribution
-  I contributed last night
+  I contributed here
 
   ## Tests
-  I tested yesterday
+  We tested it yesterday
 
   ## Questions
-  [tyhunt24](https://github.com/) 
+  [Tyhunt24](https://github.com/) 
 
   jtmhunt22@gmail.com 
  
